@@ -4,8 +4,8 @@
 int main()
 {
     int n,temp,r,sum=0;
-    printf("Enter the number = ");
-    scanf("%d",&n);
+    printf("Enter the number = "); //For eg 153 = 1*1*1 + 5*5*5 + 3*3*3 = 1 + 125 + 27 = 153 
+    scanf("%d",&n); 
     
     temp=n;
     while(n>0)
