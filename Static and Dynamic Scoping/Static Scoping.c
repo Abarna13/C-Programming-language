@@ -1,4 +1,10 @@
-//Program for static scoping
+/*Static Programming:
+
+In static scoping or logical scoping definition of a variable is resolved by searching its containing block or function.If that fails then searching the outer containing block(Global variable)and so on
+
+*/
+
+//Program 
 
 #include<stdio.h>
 
@@ -26,3 +32,9 @@ int fun2(int b)
     c = a+b;
     return c;
 }
+
+/*Output:
+
+25
+
+*/
