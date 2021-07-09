@@ -4,3 +4,10 @@ int main()
     printf("%d", printf("%s", "Hello World!"));
     return 0;
 }
+
+/*
+Output
+
+Hello World!12
+
+*/
