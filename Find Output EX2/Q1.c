@@ -5,3 +5,10 @@ int main()
     printf("%d", var);
     return 0;
 }
+
+/*
+Output:
+
+42
+
+*/
