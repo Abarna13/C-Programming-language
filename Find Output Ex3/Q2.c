@@ -7,3 +7,10 @@ int main()
     return 0;
     
 }
+
+/*
+Output:
+
+5 4
+
+*/
