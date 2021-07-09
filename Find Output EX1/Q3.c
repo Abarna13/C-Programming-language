@@ -5,3 +5,11 @@ int main()
     printf("%10s", "Hello");
     return 0;
 }
+
+/*
+Output:
+
+Hello
+     Hello
+     
+*/
