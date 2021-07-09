@@ -8,3 +8,10 @@ int main()
     printf(STRING, NESO);
     return 0;
 }
+
+/*
+Output:
+
+In Neso Academy i'm learning C Program!
+
+*/
